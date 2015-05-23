@@ -1,0 +1,13 @@
+{
+  "name": "dotcity-starter-kit",
+  "version": "0.0.1",
+  "dependencies": {
+    "bootstrap": "3.0.3",
+    "font-awesome": "~4.2.0",
+    "momentjs": "~2.1.0",
+    "jquery": "~2.0.3",
+    "respond": "~1.4.2",
+    "jqueryui": "~1.11.2",
+    "vis": "~3.12.0"
+  }
+}
