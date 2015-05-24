@@ -1,10 +1,14 @@
 {
   "name": "theme-d3js-speedometer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "preview": [
     "images/preview.png"
   ],
-  "description": "A d3js-speedometer theme.",
+  "description": "A D3.js speedometer theme.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wotcity/theme-d3js-speedometer.git"
+  },
   "dependencies": {
     "async": "~0.2.9",
     "automationjs": "^0.1.3",
@@ -15,10 +19,8 @@
     "jquery": "^2.1.3",
     "memcached": "*",
     "moment": "^2.10.2",
-    "polymer": "^0.4.1",
     "underscore": "^1.7.0",
     "virtual-dom": "0.0.23",
-    "vis": "^3.12.0",
     "websocket": "^1.0.18"
   },
   "devDependencies": {
